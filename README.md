@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![photo_2022-11-07_23-16-19](https://user-images.githubusercontent.com/117675043/200417250-a04e4e09-b10f-4cfc-a92a-f8afc83e9d31.jpg)
+
 <!--
 **VolodymyrMedved/VolodymyrMedved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
